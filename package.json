@@ -1,0 +1,12 @@
+{
+  "name": "maxrss",
+  "version": "1.0.0",
+  "module": "maxrss.ts",
+  "bin": {
+    "maxrss": "./maxrss.ts"
+  },
+  "type": "module",
+  "dependencies": {
+    "bun-types": "latest"
+  }
+}
